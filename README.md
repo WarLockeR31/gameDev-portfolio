@@ -28,6 +28,6 @@
 
 ### Победи их всех: Бомбардиро VS Тралалеро — Idle Clicker (Релиз)
 
-<video src="media/clicker.mp4" controls="controls" muted="muted" width="600">
-  Ваш браузер не поддерживает тег video.
-</video>
+<div align="center">
+  <img src="media/clicker.gif" width="800" alt="Clicker Gameplay" />
+</div>
