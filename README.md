@@ -12,8 +12,8 @@
 ### All In — 3D Arena Slasher
 
 <div align="center">
-  <img src="media/all-in.gif" width="800" alt="All In Gameplay" />
   <img src="media/all-in2.gif" width="800" alt="All In Gameplay" />
+  <img src="media/all-in.gif" width="800" alt="All In Gameplay" />
 </div>
 
 ---
