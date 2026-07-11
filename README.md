@@ -1,4 +1,6 @@
-**Junior Gameplay & Systems Programmer**
+# Junior Gameplay & Systems Programmer ([Unity](#unity)/[Unreal Engine](#unreal-engine))
+
+## Unity
 
 ### Soul Overcharge — 2.5D Arcade Racing
 
@@ -32,26 +34,25 @@
   <img src="media/clicker.gif" width="800" alt="Clicker Gameplay" />
 </div>
 
----
-
-### Advanced AI & Navigation System (Unreal Engine 5, C++)
-
-<table>
-  <tr>
-    <td><img src="media/AO1.gif" width="600" alt="AO" /></td>
-    <td><img src="media/AO2.gif" width="600" alt="AO" /></td>
-  </tr>
-  <tr>
-    <td><img src="media/AO2.png" width="600" alt="AO" /></td>
-    <td><img src="media/AO1.png" width="600" alt="AO" /></td>
-  </tr>
-</table>
 
 ---
+
+## Unreal Engine
 
 ### First-Person Action Mechanics (Unreal Engine 5, C++, Blueprints)
 
 <div align="center">
   <img src="media/WallRun.gif" width="800" alt="WallRun" />
   <img src="media/Flocking.gif" width="800" alt="WallRun" />
+</div>
+
+---
+
+### Advanced AI & Navigation System (Unreal Engine 5, C++)
+
+<div align="center">
+  <img src="media/AO1.gif" width="600" alt="AO" />
+  <img src="media/AO2.gif" width="600" alt="AO" />
+  <img src="media/AO2.png" width="600" alt="AO" />
+  <img src="media/AO1.png" width="600" alt="AO" />
 </div>
